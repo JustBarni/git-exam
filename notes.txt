@@ -1,6 +1,10 @@
 Version 3
 <<<<<<< HEAD
+<<<<<<< HEAD
 Temporary change
 =======
 Login feature started
 >>>>>>> feature-login
+=======
+API feature work
+>>>>>>> 62b756a (API munka elkezdve)
